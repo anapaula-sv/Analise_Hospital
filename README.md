@@ -27,7 +27,7 @@ Este projeto realiza uma análise completa de dados hospitalares, abrangendo pac
 
 ```
 ├── hospital_dados.xlsx        # Base de dados
-├── main.ipynb     # Notebook com toda a análise
+├── analise_hospital.ipynb     # Notebook com toda a análise
 └── hospital_relatorio_final.xlsx  # Relatório exportado
 ```
 
