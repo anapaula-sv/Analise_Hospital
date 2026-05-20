@@ -43,7 +43,7 @@ git clone https://github.com/anapaula-sv/Analise_Hospital.git
 pip install pandas matplotlib seaborn 
 ```
 
-3. Execute o notebook `main.ipynb`
+3. Execute o notebook `analise_hospital.ipynb`
 
 
 
