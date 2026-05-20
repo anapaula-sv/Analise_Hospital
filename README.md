@@ -35,7 +35,7 @@ Este projeto realiza uma análise completa de dados hospitalares, abrangendo pac
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/analise-dados-hospital.git
+git clone https://github.com/anapaula-sv/Analise_Hospital.git
 ```
 
 2. Instale as dependências
@@ -45,6 +45,6 @@ pip install pandas matplotlib seaborn
 
 3. Execute o notebook `main.ipynb`
 
-```
+
 
 Desenvolvido como projeto de estudos em análise de dados.
